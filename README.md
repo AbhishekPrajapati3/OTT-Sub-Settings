@@ -1,8 +1,38 @@
 # web_settings
 
-A new Flutter project.
+OTT-Sub-Settings.
 
 ## Getting Started
+
+Running the Application
+To run the application, follow these steps:
+
+Prerequisites
+Flutter SDK (version 2.8.0 or later)
+Dart SDK (version 2.15.0 or later)
+Chrome or another modern web browser
+A code editor or IDE (such as Visual Studio Code)
+
+
+Setup Steps
+  1. Clone the repository:
+       git clone https://github.com/your-username/your-project-name.git
+  
+  2. Change into the project directory:
+       cd your-project-name
+
+  3. Get the dependencies:
+      flutter pub get
+
+Running the Application
+  1. Run the application:
+       flutter run -d chrome
+     
+     This will launch the application in the Chrome browser
+     Run the application in a specific browser:
+          flutter run -d <browser-name>
+
+     
 
 This project is a starting point for a Flutter application.
 
